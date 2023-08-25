@@ -1,1 +1,20 @@
 /* your code */
+thead{
+    background-color: rgba(9, 9, 126, 0.893);
+    color: white;
+}
+
+td{
+    width:100px;
+    align-items: center;
+    justify-content: center;
+}
+table{
+    display: table-row;
+    align-items: center;
+    justify-content: center;
+
+}
+th{
+    align-items: center;
+}
